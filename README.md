@@ -1,7 +1,24 @@
-# RollaBall
+#  EX.NO : 02 RollaBall
 
 ## Aim:
-
+### STEP 1:
+To Create a unity project in unity hub.
+### STEP 2:
+Aftern creating Click File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (Expno2).
+### STEP 3:
+Click Hierarchy -> 3DObject -> Sphere Hierarchy -> 3DObject -> plane Hierarchy.
+### STEP 4:
+Create a folder in project and name as Materials Material folder -> Create -> Material (Name: Sphere) Inspector ->Surface Inputs ->BaseMAp (Choose the color) Drag the Cylinder to the plane and release the mouse
+### STEP 5:
+Create a folder name Coding and create a C# file to add the coding in it.
+### STEP 6:
+To add our C# Script file to our selected object, click on the C# Script file and drag it to Sphere objects in the Hierarchy window and run the application.
+### STEP 7:
+After run the application, you press the WASD and space key the ball will move and jump.
+### STEP 8:
+Save the unity file and take screenshot.
+### STEP 9:
+Close the Unity project.
 ## Algorithm:
 
 1. File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (MiniGame)
@@ -45,5 +62,11 @@ Double click the PlayerController file and type the coding
 ## Program:
 
 ## Output:
+![output](i1.jpeg)
+![output](i2.jpeg)
+![output](i3.jpeg)
+![output](i4.jpeg)
+![output](i5.jpeg)
 
 ## Result:
+Thus, The 3D application for Roll the Ball objects in unity is developed successfully
