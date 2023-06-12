@@ -1,6 +1,7 @@
 #  EX.NO : 02 RollaBall
 
 ## Aim:
+TO Roll a ball using C# program in unity
 ### STEP 1:
 To Create a unity project in unity hub.
 ### STEP 2:
